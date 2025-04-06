@@ -1,0 +1,10 @@
+openai
+gradio
+dotenv
+pydub
+sounddevice
+scipy
+transformers
+datasets
+torch
+python-docx
